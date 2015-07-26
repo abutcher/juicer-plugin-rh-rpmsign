@@ -16,6 +16,8 @@ Url: https://github.com/abutcher/juicer-plugin-rh-rpmsign
 BuildArch: noarch
 
 Requires: juicer >= 1.0.0-1
+Requires: python-krbV
+Requires: rh-signing-tools
 Requires: rpm-sign
 
 
